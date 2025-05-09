@@ -1,2 +1,4 @@
 name: Miriam's Writings
 theme: minima
+#remote_theme: THEME-NAME 
+##^for jekyll theme?
